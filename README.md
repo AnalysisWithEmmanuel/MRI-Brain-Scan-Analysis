@@ -8,10 +8,9 @@ Python + Power BI Project | 44,000 MRI Scans | Images ➝ Data ➝ Insights
 * [Feature Engineering](#feature-engineering)
 * [Power BI Dashboard](#power-bi-dashboard)
 * [Insights & Findings](#insights--findings)
+* [Recommendations](Recommendations)
 * [Repository Structure](#repository-structure)
 * [Future Work](#future-work)
-* [Related Links](#related-links)
-* [Acknowledgements](#acknowledgements)
 
 ### Project Overview  
 This project analyzes **44,000+ MRI brain scans** to extract image-based features that help understand the progression of **Alzheimer’s Disease**. Using **Python** for image processing and **Power BI** for interactive visualizations, we convert raw medical images into **actionable insights**.
