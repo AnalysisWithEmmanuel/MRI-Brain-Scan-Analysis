@@ -115,6 +115,7 @@ Once the Excel dataset was ready, I imported it into **Power BI** to build an in
 - 🎯 **Brightness Variation**: Used to separate Normal vs. Diseased groups
 
 ![mri](https://github.com/user-attachments/assets/efe5560e-1061-4a63-b8c2-231209cebc70)
+
 ![mri 2](https://github.com/user-attachments/assets/c3ebe89e-5be7-4c3b-b1b1-c3f04e22a5cd)
 
 The dashboard allows **filtering by diagnosis**, viewing statistical differences, and exploring trends across thousands of scans in just a few clicks.
