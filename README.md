@@ -178,10 +178,7 @@ This same pipeline (image ➝ features ➝ dataset ➝ dashboard) can be re-used
 2. Develop a web dashboard using Streamlit or Flask
 3. Integrate with medical diagnosis APIs or electronic health records
 
-Related Links
-Dataset Source (insert dataset source link)
 
-Power BI Report (insert .pbix or dashboard link)
 
 Acknowledgements
 Thanks to open-source medical datasets, radiologists, and the research community contributing to Alzheimer’s detection and analysis.
