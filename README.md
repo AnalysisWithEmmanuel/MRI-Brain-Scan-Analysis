@@ -162,24 +162,14 @@ This same pipeline (image ➝ features ➝ dataset ➝ dashboard) can be re-used
 
 ---
 
-### Repository Structure
-```
-📁 mri-alzheimers-analysis/
-├── data/                     # Feature CSV files
-├── images/                   # Sample MRI scan images
-├── notebooks/                # Jupyter notebooks
-├── dashboards/               # Power BI .pbix files
-├── README.md
-└── requirements.txt
-```
-
 ### Future Work
 
 1.Build predictive ML models (e.g., CNNs)
 2. Develop a web dashboard using Streamlit or Flask
 3. Integrate with medical diagnosis APIs or electronic health records
 
-
+Link to the Dataset
+[Download Here](https://drive.google.com/drive/folders/1eKPQsbPM8C-lP7sMK3LnNugeaYoCDq0J?usp=drive_link)
 
 Acknowledgements
 Thanks to open-source medical datasets, radiologists, and the research community contributing to Alzheimer’s detection and analysis.
