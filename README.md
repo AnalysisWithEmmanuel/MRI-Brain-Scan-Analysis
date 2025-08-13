@@ -9,7 +9,6 @@ Python + Power BI Project | 44,000 MRI Scans | Images ➝ Data ➝ Insights
 * [Power BI Dashboard](#power-bi-dashboard)
 * [Insights & Findings](#insights--findings)
 * [Recommendations](Recommendations)
-* [Repository Structure](#repository-structure)
 * [Future Work](#future-work)
 
 ### Project Overview  
