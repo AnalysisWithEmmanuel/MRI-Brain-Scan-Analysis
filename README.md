@@ -163,9 +163,9 @@ This same pipeline (image ➝ features ➝ dataset ➝ dashboard) can be re-used
 
 ### Future Work
 
-1.Build predictive ML models (e.g., CNNs)
-2. Develop a web dashboard using Streamlit or Flask
-3. Integrate with medical diagnosis APIs or electronic health records
+* Build predictive ML models (e.g., CNNs)
+* Develop a web dashboard using Streamlit or Flask
+* Integrate with medical diagnosis APIs or electronic health records
 
 Link to the Dataset
 [Download Here](https://drive.google.com/drive/folders/1eKPQsbPM8C-lP7sMK3LnNugeaYoCDq0J?usp=drive_link)
